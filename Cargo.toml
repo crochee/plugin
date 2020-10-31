@@ -2,7 +2,7 @@
 name = "crochee_plugin"
 license = "MIT"
 version = "0.1.0"
-authors = ["crochee <13522570308@139.com>"]
+authors = ["crochee <2843065113@qq.com>"]
 edition = "2018"
 description = "a simple plugin for system"
 
