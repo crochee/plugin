@@ -1,5 +1,5 @@
 [package]
-name = "plugin"
+name = "rust-plugin"
 license = "MIT"
 version = "0.1.0"
 authors = ["crochee <13522570308@139.com>"]
